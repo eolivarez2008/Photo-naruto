@@ -21,15 +21,15 @@ Ainsi, le site peut charger les images dynamiquement via les liens vers ce d√©p√
 
 Lien brut vers une image :  
 
-https://raw.githubusercontent.com/TON-USER/nom-du-repo/main/images/personnages/naruto.png
+https://raw.githubusercontent.com/eolivarez2008/Photo-naruto/main/demons/Gobi.webp
 
 Exemple JSON utilisable directement :  
 
 ```json
-{
-  "nom": "Naruto Uzumaki",
-  "image": "https://raw.githubusercontent.com/TON-USER/nom-du-repo/main/images/personnages/naruto.png",
-}
+    {
+      "name": "Gobi",
+      "image": "https://raw.githubusercontent.com/eolivarez2008/Photo-naruto/main/demons/Gobi.webp"
+    }
 ```
 
 ## Auteur
