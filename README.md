@@ -21,8 +21,7 @@ Ainsi, le site peut charger les images dynamiquement via les liens vers ce dép�
 
 Lien brut vers une image :  
 
-https://raw.githubusercontent.com/TON-USER/nom-du-repo/main/images/personnages/naruto.png?utm_source=chatgpt.com
-
+https://raw.githubusercontent.com/TON-USER/nom-du-repo/main/images/personnages/naruto.png
 
 Exemple JSON utilisable directement :  
 
@@ -30,12 +29,12 @@ Exemple JSON utilisable directement :
 {
   "nom": "Naruto Uzumaki",
   "image": "https://raw.githubusercontent.com/TON-USER/nom-du-repo/main/images/personnages/naruto.png",
-  "village": "Konoha"
 }
+```
 
 ## Auteur
 
-Développé et maintenu par **Emilien Olivarez** – Étudiant en 1re Pro CIEL (ex-SN)  
+Développé et maintenu par **Emilien Olivarez** – Étudiant en Bac Pro CIEL (ex-SN)  
 Lycée Louis de Cormontaigne, Metz
 
 ---
